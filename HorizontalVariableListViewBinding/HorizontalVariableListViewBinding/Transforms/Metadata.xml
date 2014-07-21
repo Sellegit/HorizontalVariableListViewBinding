@@ -1,4 +1,8 @@
 ﻿<metadata>
-
-
+	<remove-node path="/api/package[@name='it.sephiroth.sandroid.library.widget']/class[@name='HListView']/method[@name='getFooterViewsCount' and count(parameter)=0]" />
+	<remove-node path="/api/package[@name='it.sephiroth.sandroid.library.widget']/class[@name='HListView']/method[@name='getHeaderViewsCount' and count(parameter)=0]" />
+	<remove-node path="/api/package[@name='it.sephiroth.sandroid.library.widget']/class[@name='HListView']/method[@name='getAdapter' and count(parameter)=0]" />
+	<attr path="/api/package[@name='it.sephiroth.sandroid.library.widget']/class[@name='HListView']/method[@name='getAdapter']" name="managedReturn">
+	Java.Lang.Object
+	</attr>
 </metadata>
