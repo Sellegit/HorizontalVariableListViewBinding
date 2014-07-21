@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorizontalVariableListViewBinding", "HorizontalVariableListViewBinding\HorizontalVariableListViewBinding.csproj", "{42097BD3-4C5E-4285-BF36-A7AED1D8859E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42097BD3-4C5E-4285-BF36-A7AED1D8859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42097BD3-4C5E-4285-BF36-A7AED1D8859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42097BD3-4C5E-4285-BF36-A7AED1D8859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42097BD3-4C5E-4285-BF36-A7AED1D8859E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HorizontalVariableListViewBinding\HorizontalVariableListViewBinding.csproj
+	EndGlobalSection
+EndGlobal
