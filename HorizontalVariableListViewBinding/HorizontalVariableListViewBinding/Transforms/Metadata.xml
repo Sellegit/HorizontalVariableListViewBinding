@@ -5,4 +5,5 @@
 	<attr path="/api/package[@name='it.sephiroth.sandroid.library.widget']/class[@name='HListView']/method[@name='getAdapter']" name="managedReturn">
 	Java.Lang.Object
 	</attr>
+	<remove-node path="/api/package[@name='it.sephiroth.sandroid.library.widget']/class[@name='HeaderViewListAdapter']" />
 </metadata>
