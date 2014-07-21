@@ -1,5 +1,4 @@
 ﻿<metadata>
 
-<remove-node path="/api/package[@name='it.sephiroth.android.library.widget']/class[@name='HeaderViewListAdapter']" />
 
 </metadata>
